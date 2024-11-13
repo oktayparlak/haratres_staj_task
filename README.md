@@ -1,7 +1,5 @@
 # Haratres Teknoloji FIT Staj Programı Ödev Çözümleri
 
-Bu proje, Haratres Teknoloji FIT Staj Programı için verilen iki Java programlama sorusunun çözümlerini içermektedir. Proje, kullanıcıdan alınan girdilere göre veri işleme ve analiz yapmayı amaçlayan iki bağımsız uygulama sunmaktadır.
-
 ## Proje İçeriği
 
 1. **Karakter Sayma Programı**
