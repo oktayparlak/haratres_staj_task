@@ -24,4 +24,4 @@
    ```bash
    git clone https://github.com/oktayparlak/haratres_staj_task.git
 
-2. Projeyi bir IDE yardımı ile açın ve Main.java sınıfının içindeki main(String[] args) metodunu çalıştırın.
+2. Projeyi bir IDE yardımı ile açın ve **Main.java** sınıfının içindeki **main(String[] args)** metodunu çalıştırın.
